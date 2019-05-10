@@ -55,7 +55,7 @@
 <script>
 import Rythm from "rythm.js";
 const rythm = new Rythm();
-const music = require("../../static/audio/romeostune.mp3");
+const music = require("../../static/audio/GaMetal - Venus Lighthouse (Acoustic Short).mp3");
 import bus from "@/bus";
 
 export default {
